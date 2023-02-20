@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/C#_Home_Work/Task26/bin/Debug/net6.0/Task26
+/Users/Gregory/Desktop/C#_Home_Work/Task26/bin/Debug/net6.0/Task26.deps.json
+/Users/Gregory/Desktop/C#_Home_Work/Task26/bin/Debug/net6.0/Task26.runtimeconfig.json
+/Users/Gregory/Desktop/C#_Home_Work/Task26/bin/Debug/net6.0/Task26.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task26/bin/Debug/net6.0/Task26.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/Task26.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/Task26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/Task26.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/Task26.AssemblyInfo.cs
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/Task26.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/Task26.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/refint/Task26.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/Task26.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/Task26.genruntimeconfig.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task26/obj/Debug/net6.0/ref/Task26.dll

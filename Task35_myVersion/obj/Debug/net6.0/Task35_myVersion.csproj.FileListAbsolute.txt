@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/Task35_myVersion.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/Task35_myVersion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/Task35_myVersion.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/Task35_myVersion.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/Task35_myVersion.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/bin/Debug/net6.0/Task35_myVersion
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/bin/Debug/net6.0/Task35_myVersion.deps.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/bin/Debug/net6.0/Task35_myVersion.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/bin/Debug/net6.0/Task35_myVersion.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/bin/Debug/net6.0/Task35_myVersion.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/Task35_myVersion.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/refint/Task35_myVersion.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/Task35_myVersion.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/Task35_myVersion.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task35_myVersion/obj/Debug/net6.0/ref/Task35_myVersion.dll

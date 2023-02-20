@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/Task02.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/Task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/Task02.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/Task02.AssemblyInfo.cs
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/Task02.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task02/bin/Debug/net6.0/Task02
+/Users/Gregory/Desktop/C#_Home_Work/Task02/bin/Debug/net6.0/Task02.deps.json
+/Users/Gregory/Desktop/C#_Home_Work/Task02/bin/Debug/net6.0/Task02.runtimeconfig.json
+/Users/Gregory/Desktop/C#_Home_Work/Task02/bin/Debug/net6.0/Task02.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task02/bin/Debug/net6.0/Task02.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/Task02.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/refint/Task02.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/Task02.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/Task02.genruntimeconfig.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task02/obj/Debug/net6.0/ref/Task02.dll

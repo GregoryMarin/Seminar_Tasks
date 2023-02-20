@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/bin/Debug/net6.0/Task68_HW_9
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/bin/Debug/net6.0/Task68_HW_9.deps.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/bin/Debug/net6.0/Task68_HW_9.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/bin/Debug/net6.0/Task68_HW_9.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/bin/Debug/net6.0/Task68_HW_9.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/Task68_HW_9.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/Task68_HW_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/Task68_HW_9.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/Task68_HW_9.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/Task68_HW_9.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/Task68_HW_9.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/refint/Task68_HW_9.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/Task68_HW_9.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/Task68_HW_9.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task68_HW_9/obj/Debug/net6.0/ref/Task68_HW_9.dll

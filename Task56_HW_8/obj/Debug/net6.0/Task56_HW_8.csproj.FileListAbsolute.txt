@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/Task56_HW_8.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/Task56_HW_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/Task56_HW_8.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/Task56_HW_8.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/Task56_HW_8.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/bin/Debug/net6.0/Task56_HW_8
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/bin/Debug/net6.0/Task56_HW_8.deps.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/bin/Debug/net6.0/Task56_HW_8.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/bin/Debug/net6.0/Task56_HW_8.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/bin/Debug/net6.0/Task56_HW_8.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/Task56_HW_8.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/refint/Task56_HW_8.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/Task56_HW_8.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/Task56_HW_8.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task56_HW_8/obj/Debug/net6.0/ref/Task56_HW_8.dll

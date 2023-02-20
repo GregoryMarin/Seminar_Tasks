@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/bin/Debug/net6.0/Task_22
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/bin/Debug/net6.0/Task_22.deps.json
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/bin/Debug/net6.0/Task_22.runtimeconfig.json
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/bin/Debug/net6.0/Task_22.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/bin/Debug/net6.0/Task_22.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/Task_22.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/Task_22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/Task_22.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/Task_22.AssemblyInfo.cs
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/Task_22.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/Task_22.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/refint/Task_22.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/Task_22.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/Task_22.genruntimeconfig.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task_22/obj/Debug/net6.0/ref/Task_22.dll

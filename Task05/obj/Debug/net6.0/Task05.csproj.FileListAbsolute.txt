@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/C#_Home_Work/Task05/bin/Debug/net6.0/Task05
+/Users/Gregory/Desktop/C#_Home_Work/Task05/bin/Debug/net6.0/Task05.deps.json
+/Users/Gregory/Desktop/C#_Home_Work/Task05/bin/Debug/net6.0/Task05.runtimeconfig.json
+/Users/Gregory/Desktop/C#_Home_Work/Task05/bin/Debug/net6.0/Task05.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task05/bin/Debug/net6.0/Task05.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/Task05.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/Task05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/Task05.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/Task05.AssemblyInfo.cs
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/Task05.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/Task05.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/refint/Task05.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/Task05.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/Task05.genruntimeconfig.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task05/obj/Debug/net6.0/ref/Task05.dll

@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/bin/Debug/net6.0/Task_06_HW3
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/bin/Debug/net6.0/Task_06_HW3.deps.json
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/bin/Debug/net6.0/Task_06_HW3.runtimeconfig.json
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/bin/Debug/net6.0/Task_06_HW3.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/bin/Debug/net6.0/Task_06_HW3.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/Task_06_HW3.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/Task_06_HW3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/Task_06_HW3.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/Task_06_HW3.AssemblyInfo.cs
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/Task_06_HW3.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/Task_06_HW3.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/refint/Task_06_HW3.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/Task_06_HW3.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/Task_06_HW3.genruntimeconfig.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task_06_HW3/obj/Debug/net6.0/ref/Task_06_HW3.dll

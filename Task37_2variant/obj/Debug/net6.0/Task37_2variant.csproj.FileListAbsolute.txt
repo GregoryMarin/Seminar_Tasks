@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/bin/Debug/net6.0/Task37_2variant
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/bin/Debug/net6.0/Task37_2variant.deps.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/bin/Debug/net6.0/Task37_2variant.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/bin/Debug/net6.0/Task37_2variant.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/bin/Debug/net6.0/Task37_2variant.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/Task37_2variant.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/Task37_2variant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/Task37_2variant.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/Task37_2variant.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/Task37_2variant.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/Task37_2variant.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/refint/Task37_2variant.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/Task37_2variant.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/Task37_2variant.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task37_2variant/obj/Debug/net6.0/ref/Task37_2variant.dll

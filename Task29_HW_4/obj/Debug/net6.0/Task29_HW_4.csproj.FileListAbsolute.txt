@@ -1,0 +1,30 @@
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.AssemblyInfo.cs
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4.deps.json
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4.runtimeconfig.json
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4.dll
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.dll
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/refint/Task29_HW_4.dll
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.pdb
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.genruntimeconfig.cache
+/Users/Gregory/Desktop/обучение GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/ref/Task29_HW_4.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4.deps.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4.runtimeconfig.json
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/bin/Debug/net6.0/Task29_HW_4.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.AssemblyInfo.cs
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/refint/Task29_HW_4.dll
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.pdb
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/Task29_HW_4.genruntimeconfig.cache
+/Users/Gregory/Desktop/GeekBrains/Tasks_C#/Semminar_Tasks/Task29_HW_4/obj/Debug/net6.0/ref/Task29_HW_4.dll

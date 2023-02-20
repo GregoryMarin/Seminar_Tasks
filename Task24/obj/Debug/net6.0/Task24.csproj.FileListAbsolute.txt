@@ -1,0 +1,15 @@
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/Task24.csproj.AssemblyReference.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/Task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/Task24.AssemblyInfoInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/Task24.AssemblyInfo.cs
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/Task24.csproj.CoreCompileInputs.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task24/bin/Debug/net6.0/Task24
+/Users/Gregory/Desktop/C#_Home_Work/Task24/bin/Debug/net6.0/Task24.deps.json
+/Users/Gregory/Desktop/C#_Home_Work/Task24/bin/Debug/net6.0/Task24.runtimeconfig.json
+/Users/Gregory/Desktop/C#_Home_Work/Task24/bin/Debug/net6.0/Task24.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task24/bin/Debug/net6.0/Task24.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/Task24.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/refint/Task24.dll
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/Task24.pdb
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/Task24.genruntimeconfig.cache
+/Users/Gregory/Desktop/C#_Home_Work/Task24/obj/Debug/net6.0/ref/Task24.dll
